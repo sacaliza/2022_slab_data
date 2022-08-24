@@ -9,6 +9,7 @@ All data is free and open to the public, please cite this data the following way
 
 U.S. Geological Survey, 2021, Earthquake Lists accessed July 15, 2021, and March 30, 2022 at URL: https://earthquake.usgs.gov/earthquakes/search/.
 
+Adittional csv file, 30-70_1951a1971.csv has been added with 127 events of magnitude > 4 from 1951 up to 1971, for the latitutdes 30° to 70°S and longitudes 66° to 76°W. This data was only used for revisions purposes and do not form part of the main article.
 
 Alternatively, for any posible revision on the current database, to avoid overlap in seismicity and since there is a limit of 20000 events allowed per search at the USGS search engine, the authors recommend to use the following search parameters to access the current data used for this research paper, divided into 3 links: 
 
